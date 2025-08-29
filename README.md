@@ -43,7 +43,6 @@ This project demonstrates a **PIN brute-force testing tool** built using the **R
 | A0       | Photoresistor   | Signal |
 | VBUS     | LiPo Charger    | 5V Input |
 
-*(See `wiring_diagram.png` for a visual guide.)*
 
 ---
 

@@ -60,9 +60,6 @@ This project demonstrates a **PIN brute-force testing tool** built using the **R
 
 ---
 
-## **📜 License**
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
 ⚠️ **Disclaimer:**
 > This tool is intended for **educational and authorized security testing** only. Using it on devices or systems **without explicit permission** is illegal.
 
@@ -71,7 +68,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ## **📄 Documentation**
 For the complete build guide, CircuitPython code, and full explanations, see the PDF report:
 
-📄 **[Raspberry Pi Pico PIN Brute-Force Tool - Vijay](docs/Raspberry_Pi_Pico_PIN_BruteForce_Tool_Vijay.pdf)**
+📄 **[Raspberry Pi Pico PIN Brute-Force Tool - Vijay]
 
 ---
 

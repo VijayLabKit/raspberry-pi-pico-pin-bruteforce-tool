@@ -67,7 +67,7 @@ This project demonstrates a **PIN brute-force testing tool** built using the **R
 ## **📄 Documentation**
 For the complete build guide, CircuitPython code, and full explanations, see the PDF report:
 
-📄 [Raspberry Pi Pico PIN Brute-Force Tool - Vijay]
+📄Raspberry Pi Pico PIN Brute.docx
 
 ---
 

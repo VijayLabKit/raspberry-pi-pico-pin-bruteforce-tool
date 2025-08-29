@@ -92,5 +92,4 @@ It leverages the Pico’s **USB HID capabilities** to simulate keystrokes, displ
 
 ---
 
-## 📂 Repository Structure  
 
